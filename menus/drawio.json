@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Open Draw.io Editor",
+        "command": "drawio:open-editor"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "drawio",
+          "submenu": [
+            {
+              "label": "Open Draw.io Editor",
+              "command": "drawio:open-editor"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
