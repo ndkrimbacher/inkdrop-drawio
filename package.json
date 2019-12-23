@@ -3,13 +3,11 @@
   "main": "./lib/drawio",
   "version": "0.0.0",
   "description": "draw.io integration for inkdrop",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/inkdropapp/drawio",
   "license": "MIT",
   "engines": {
     "inkdrop": "^4.x"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

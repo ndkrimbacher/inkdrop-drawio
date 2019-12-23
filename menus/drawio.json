@@ -1,9 +1,9 @@
 {
   "context-menu": {
-    ".CodeMirror": [
+    ".inline-widget": [
       {
-        "label": "Open Draw.io Editor",
-        "command": "drawio:open-editor"
+        "label": "Open with Draw.io",
+        "command": "drawio:open-with-editor"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "drawio",
           "submenu": [
             {
-              "label": "Open Draw.io Editor",
-              "command": "drawio:open-editor"
+              "label": "Open with Draw.io",
+              "command": "drawio:open-with-editor"
             }
           ]
         }
