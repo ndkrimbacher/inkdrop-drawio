@@ -6,6 +6,7 @@
   "keywords": [],
   "repository": "git@github.com:ndkrimbacher/inkdrop-drawio.git",
   "license": "MIT",
+  "scripts" : { "preinstall" : "git submodule update --init" },
   "engines": {
     "inkdrop": "^4.x"
   },
