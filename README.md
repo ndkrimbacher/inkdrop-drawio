@@ -2,7 +2,7 @@
 
 It adds [draw.io](https://github.com/jgraph/drawio) support to [inkdrop](https://inkdrop.app/).
 
-The plugin is currently in beta stadium.
+The plugin is currently in Beta.
 
 ## Install
 
