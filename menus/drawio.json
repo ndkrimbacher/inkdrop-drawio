@@ -2,7 +2,7 @@
   "context-menu": {
     ".inline-widget": [
       {
-        "label": "Open with Draw.io",
+        "label": "Open with draw.io",
         "command": "drawio:open-with-editor"
       }
     ]
@@ -12,11 +12,11 @@
       "label": "Plugins",
       "submenu": [
         {
-          "label": "drawio",
+          "label": "draw.io",
           "submenu": [
             {
-              "label": "Open with Draw.io",
-              "command": "drawio:open-with-editor"
+              "label": "Add new diagram",
+              "command": "drawio:create-new"
             }
           ]
         }
