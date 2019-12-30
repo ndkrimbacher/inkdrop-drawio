@@ -1,7 +1,7 @@
 {
   "name": "drawio",
   "main": "./lib/drawio",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "draw.io integration for inkdrop",
   "keywords": [],
   "repository": "https://github.com/ndkrimbacher/inkdrop-drawio",
