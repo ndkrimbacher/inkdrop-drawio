@@ -1,12 +1,14 @@
 {
   "name": "drawio",
   "main": "./lib/drawio",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "draw.io integration for inkdrop",
   "keywords": [],
   "repository": "git@github.com:ndkrimbacher/inkdrop-drawio.git",
   "license": "MIT",
-  "scripts" : { "preinstall" : "git submodule update --init" },
+  "scripts": {
+    "preinstall": "git submodule update --init"
+  },
   "engines": {
     "inkdrop": "^4.x"
   },
