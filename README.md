@@ -19,3 +19,4 @@ Existing diagrams can be opened and edited with the draw.io editor over the cont
 ## Open points
 
 * Diagrams in multiple notes
+* Deleteing old diagrams
