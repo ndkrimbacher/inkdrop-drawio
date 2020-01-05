@@ -15,3 +15,7 @@ ipm install drawio
 Use the `Plugins` > `draw.io` menu to add a new diagram.
 
 Existing diagrams can be opened and edited with the draw.io editor over the context menu.
+
+## Open points
+
+* Diagrams in multiple notes
