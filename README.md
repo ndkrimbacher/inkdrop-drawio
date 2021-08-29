@@ -1,5 +1,9 @@
 # inkdrop-drawio
 
+`**Broken! Not maintened at the moment.**`
+
+**The plugin does not work with the latest version of Inkdrop. I am open for pull requests.**
+
 It adds [draw.io](https://github.com/jgraph/drawio) support to [inkdrop](https://inkdrop.app/).
 
 The plugin is currently in Beta.
